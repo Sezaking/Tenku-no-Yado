@@ -1,0 +1,41 @@
+header {display: flex; background-color: rgb(255, 255, 255, 0.7); position: fixed; z-index: 1; width: 100%; align-items: center; height: 65px;}
+footer {font-size: 10px; text-align: right; padding-right: 10px}
+.comment1 {position: absolute; left: 30px; top: 80px; width: 150px;}
+.comment2 {position: absolute; right: 40px; top: 80px; width: 150px;}
+main {display: flex; margin: 0px;}
+.navmain {display: flex; border-style: none; width: 100%; margin: auto;}
+body {border-style: solid; border-width: thick; border-color: black;;}
+.ulul {display: flex; font-size: 20px; font-family: monospace; list-style: none; margin-top: 15px; width:100%; justify-content: center;}
+h1 {text-align: center; margin-top:150px;}
+.tenku {width:150px; height: 65px; position: absolute; left: 20px;}
+.top {margin: auto; margin-top: 300px;}
+.comment1 {animation-name: fadeIn;
+  animation-duration: 5s;
+  animation-timing-function: ease-out;
+  animation-delay: 0s;
+  animation-direction: normal;
+  animation-fill-mode: forwards;}
+.comment2 {animation-name: fadeIn;
+  animation-duration: 5s;
+  animation-timing-function: ease-out;
+  animation-delay: 0s;
+  animation-direction: normal;
+  animation-fill-mode: forwards;
+}
+@keyframes fadeIn {0% {opacity: 0;} 100% {opacity: 1;}}
+.main {margin-top:0px; padding-top:0px;}
+h3 {text-align: center; font: 60px;}
+.photos {width:700px; margin: 0 auto;}
+p {font-size: 16px;}
+.photospace {margin-right: 5px;}
+video {width:60%; }
+.main2 {padding: 0 auto; width:800px; margin: 0 auto;}
+.ten {align-items: center;}
+.tenphoto {display:block; margin: 0 auto; margin-bottom: 10px; margin-top: 10px;}
+.reservation {text-align: center; list-style: none;}
+#rendou1 {width: 300px;}
+#rendou2 {width: 300px; margin-right:80px;}
+#rendou3 {width: 300px; height: 100px; word-wrap: break-word;}
+a {color: black; text-decoration: none; border-bottom: 1px solid; padding-bottom: 6px;}
+.main4 {width: 600px; margin: 0 auto;}
+.li-right {margin: 42px;}
