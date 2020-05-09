@@ -5,7 +5,7 @@ footer {font-size: 10px; text-align: right; padding-right: 10px}
 main {display: flex; margin: 0px;}
 .navmain {display: flex; border-style: none; width: 100%; margin: auto;}
 body {border-style: solid; border-width: thick; border-color: black;;}
-.ulul {display: flex; font-size: 20px; font-family: monospace; list-style: none; margin-top: 15px; width:100%; justify-content: center;}
+.ulul {display: flex; font-size: 25px; font-family: monospace; list-style: none; width:100%; justify-content: center;}
 h1 {text-align: center; margin-top:150px;}
 .tenku {width:150px; height: 65px; position: absolute; left: 20px;}
 .top {margin: auto; margin-top: 300px;}
@@ -28,14 +28,14 @@ h3 {text-align: center; font: 60px;}
 .photos {width:700px; margin: 0 auto;}
 p {font-size: 16px;}
 .photospace {margin-right: 5px;}
-video {width:60%; }
-.main2 {padding: 0 auto; width:800px; margin: 0 auto;}
-.ten {align-items: center;}
+video {width:60%; height:60%; padding-top: 100px;}
+.main2 {padding: 0 auto; width:700px; margin: 0 auto;}
+.ten {width: 700px; margin: 0 auto;}
 .tenphoto {display:block; margin: 0 auto; margin-bottom: 10px; margin-top: 10px;}
 .reservation {text-align: center; list-style: none;}
 #rendou1 {width: 300px;}
 #rendou2 {width: 300px; margin-right:80px;}
 #rendou3 {width: 300px; height: 100px; word-wrap: break-word;}
 a {color: black; text-decoration: none; border-bottom: 1px solid; padding-bottom: 6px;}
-.main4 {width: 600px; margin: 0 auto;}
-.li-right {margin: 42px;}
+.main4 {width: 700px; margin: 0 auto;}
+.li-right {margin-right: 70px;}
